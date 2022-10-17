@@ -21,10 +21,8 @@ Group task:
 
 Given our objective, consider your actual team/context. Explore some of questions below:
 
-- What challenges do we see - what's stopping us?
 - What do we need to do to make TM a consistent part of "what we do"?
 - What external help do we need, and when?
-- Who should take lead in the team?
 - For TM, "what is the first thing we will suggest for our team when we get back home"?
 
 Take notes. Anonymize. Post result to workshop slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4).

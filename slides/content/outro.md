@@ -6,6 +6,13 @@
 
 ---
 
+## Next steps
+
+What are the next steps in the teams Threat Modeling journey? </br> How will the AppSec Team engage/help? </br> (link)
+
+
+---
+
 ## Key Resources
 
 - 🕵🏻‍♂️ [Threat Modeling - design for Security](https://shostack.org/books/threat-modeling-book)
