@@ -85,10 +85,9 @@ For some of the threats identified in the previous exercise:
 
 <hr>
 
-Time boxed schedule (25m):
+Time boxed schedule (20m):
 
 - 20 minutes to discuss what to do about threats
-- 5 minutes complete - wrap-up
 
 </div>
 

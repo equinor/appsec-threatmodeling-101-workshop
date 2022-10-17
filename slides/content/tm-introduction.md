@@ -19,7 +19,7 @@ We want to identify the weaknesses as early as possible.
 - Develop more secure system<!-- .element: class="fragment" data-fragment-index="1" -->
 - Develop more securely<!-- .element: class="fragment" data-fragment-index="2" -->
 - Educate developers / teams, share knowledge<!-- .element: class="fragment" data-fragment-index="3" -->
-- Have a structured, systematic and </br>consistent approach to security<!-- .element: class="fragment" data-fragment-index="4" -->
+- Have a systematic and consistent approach to security<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ❗️Threat modeling will guide our designs </br>and help us make decisions with our eyes open.<!-- .element: class="fragment" data-fragment-index="5" -->
 
@@ -54,7 +54,7 @@ We acknowledge that; models always fall short of the complexities of reality but
 
 - All systems should have defined and </br> documented security requirements (SR)!<!-- .element: class="fragment" data-fragment-index="1" -->
 - SR will guide and inform our threat modeling.<!-- .element: class="fragment" data-fragment-index="2" -->
-- All/most organisations have defined some </br>security requirements in their governance<!-- .element: class="fragment" data-fragment-index="3" -->
+- In all/most organisations you can extract </br>security requirements from the governance<!-- .element: class="fragment" data-fragment-index="3" -->
 - Threat modeling will trigger update of SR requirements<!-- .element: class="fragment" data-fragment-index="4" -->
 - Additional sources for "inspiration"<!-- .element: class="fragment" data-fragment-index="5" -->
   - [OWASP SAAM](https://owaspsamm.org/)<!-- .element: class="fragment" data-fragment-index="5" -->
@@ -73,7 +73,7 @@ We acknowledge that; models always fall short of the complexities of reality but
 
 <hr>
 
-Threat modeling is much like brushing your teeth;</br> doing it often and in short sessions is the way to go!
+Threat modeling is much like brushing your teeth;</br> doing it often and in short sessions is the recommended way!
 </br>(In case you wondered for brushing your teeth: 2x2)
 
 ---

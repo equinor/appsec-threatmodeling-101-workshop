@@ -103,11 +103,9 @@ Group tasks:
 
 <hr>
 
-Time boxed schedule (45m):
+Time boxed schedule (40m):
 
-- 5 minutes to organize
-- 10 + 10 + 10 + 5= 35 to threat model
-- 5 minutes complete - wrap-up
+- 10 + 10 + 10 + 10= 40 to threat model
 
 </div>
 

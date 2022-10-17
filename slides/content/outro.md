@@ -21,7 +21,7 @@
 
 Gathering data - the 4L's
 
-For workshop - discuss/reflect on the following topics:
+For this workshop - discuss/reflect on the following topics:
 
 - Liked
 - Learned
@@ -30,11 +30,11 @@ For workshop - discuss/reflect on the following topics:
   
 <hr>
 
-- We time box for 5 minutes and then share.
+- We timebox for 5 minutes and then share.
 
 ---
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
 
 # Thank You
 
-We are the AppSec Team, #appsec on Slack.
+We are the @appsecteam - serving #appsec on Slack.

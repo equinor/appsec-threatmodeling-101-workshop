@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
 <!-- markdownlint-disable MD041 MD033-->
 
-# Threat modeling 101
+# AppSec </br>Threat modeling 101
 
 ---
 
@@ -23,10 +23,10 @@ There is no end state for application security, we just learn and improve.
 ## Getting the most out of the workshop
 
 - Be present! <!-- .element: class="fragment" data-fragment-index="1" -->
-- Assume good intentions <!-- .element: class="fragment" data-fragment-index="2" -->
-- Value diversity in experience and opinion <!-- .element: class="fragment" data-fragment-index="3" -->
-- Help creating an environment of trust and respect <!-- .element: class="fragment" data-fragment-index="4" -->
-- Learn intentionally, <!-- .element: class="fragment" data-fragment-index="5" --></br> "**learning happens when you do things</br> you do not yet understand**" <!-- .element: class="fragment" data-fragment-index="5" -->
+- Learn intentionally, <!-- .element: class="fragment" data-fragment-index="2" --></br> "**learning happens when you do things</br> you do not yet understand**" <!-- .element: class="fragment" data-fragment-index="2" -->
+- Assume good intentions <!-- .element: class="fragment" data-fragment-index="3" -->
+- Value diversity in experience and opinion <!-- .element: class="fragment" data-fragment-index="4" -->
+- Help creating an environment of trust and respect <!-- .element: class="fragment" data-fragment-index="5" -->
 - Context matters a lot. Your perspectives matters!<!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
@@ -67,12 +67,12 @@ There is no end state for application security, we just learn and improve.
 
 ## Practicalities
 
-- Workshop channel on Equinor Slack workspace is </br> [#appsec-threatmodeling-workshop]()
+- Workshop channel on Equinor Slack workspace is </br> [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4)
 - Schedule
   - 09:00 - 16:00
   - 11:30 - 12:00 lunch
   - 5-10 minutes break every hour </br>- or as an part of the exercises. </br>🛟 us if we forget the breaks.
-- All workshop content will be available after the workshop.
+- Content will be available after the workshop.
 
 ---
 

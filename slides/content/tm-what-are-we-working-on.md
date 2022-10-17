@@ -120,9 +120,8 @@ For our [example system](content/images/tm-example-system.png)
 
 <hr>
 
-Time boxed schedule (25m):
+Time boxed schedule (20m):
 
-- 5 minutes to organize
 - 5 minutes to discuss and clarify system
 - 15 minutes to create DFD
 

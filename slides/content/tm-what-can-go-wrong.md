@@ -190,10 +190,9 @@ For our example system, using your DFD for whats currently implemented:
 
 <hr>
 
-Time boxed schedule (35m):
+Time boxed schedule (30m):
 
 - 30 minutes to apply STRIDE
-- 5 minutes complete - wrap-up
 
 <hr>
 
