@@ -20,7 +20,7 @@ Threat modeling is often cited as the practice with greatest impact on strengthe
 
 ## Slides
 
-Slides are available from the [./slides](./slides/README.md) folder.
+Slides are available from the [./slides](./slides/README.md) folder. The latest generated PDF of the slides is available at [./slides/pdf](./slides/pdf/appsec-threat-modeling-101-slides.pdf)
 
 ## Quick links
 
