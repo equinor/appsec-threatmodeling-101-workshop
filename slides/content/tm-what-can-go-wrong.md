@@ -185,7 +185,7 @@ For our example system, using your DFD for whats currently implemented:
 - Apply STRIDE, document issues, assumptions and threats
 - (Use the EoP Card Game?)
 - Team decide scope, iterating as you learn is smart!
-- Document in word/text-editor/paper (format suggested 👇)
+- Document on paper (format suggested 👇)
 - Prepare to present threats to class
 
 <hr>
@@ -260,7 +260,7 @@ Issues:
 
 ## EX-2: Presenting threats
 
-Each group present their key assumptions, issues and threats
+Each group present their STRIDE strategy, key assumptions, issues and threats
 
 <hr>
 

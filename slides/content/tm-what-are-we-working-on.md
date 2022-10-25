@@ -92,6 +92,7 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 
 - We form groups (4-5 persons), the groups self-organize
 - The group will stay together for all exercises
+- Take a short round of introduction in the groups
 - The exercises build on each other
 - We draw on A3 sheets (or similar)
 - We make notes on paper or computer

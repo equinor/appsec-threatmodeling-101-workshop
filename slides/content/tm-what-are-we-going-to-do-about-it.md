@@ -80,7 +80,7 @@ For some of the threats identified in the previous exercise:
 
 - Select a strategy; at least a few should be "mitigation"
 - Discuss realistic fix'es and document them (controls)
-  - Document in word/text-editor/paper (format suggested 👇)
+  - Document on paper (format suggested 👇)
 - Prepare to present threats to class
 
 <hr>

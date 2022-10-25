@@ -8,7 +8,7 @@
 
 ## Next steps
 
-What are the next steps in the teams Threat Modeling journey? </br> How will the AppSec Team engage/help? </br> (link)
+What are the next steps in the teams Threat Modeling journey? </br> How will the AppSec Team engage/help? </br> ([link](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
 
 
 ---

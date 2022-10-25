@@ -70,7 +70,7 @@ There is no end state for application security, we just learn and improve.
 - Workshop channel on Equinor Slack workspace is </br> [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4)
 - Schedule
   - 09:00 - 16:00
-  - 11:30 - 12:00 lunch
+  - 12:00- 12:30 Grab & GO lunch
   - 5-10 minutes break every hour </br>- or as an part of the exercises. </br>🛟 us if we forget the breaks.
 - Content will be available after the workshop.
 
