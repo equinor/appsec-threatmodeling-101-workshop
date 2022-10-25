@@ -2,14 +2,16 @@
 
 # Threat modeling the SDLC</br>∞
 
-SDLC = Software Development Life Cycle<!-- .element: style="font-size:0.8em"-->
+SDLC = Software/System Development Life Cycle<!-- .element: style="font-size:0.8em"-->
 
 ---
 
 # Threat modeling effort
 
-- Most effort is going into security for the systems that</br> we have deployed, the applications in production
-- What about the various components/parts of our SDLC? </br>Supply chain attacks are in the wind - there are many more attack vectors.
+- Most security effort is going into security for the systems that</br> we have deployed, the applications in production
+- What about the various components/parts of our SDLC?
+- Supply chain attacks are in the wind
+- The SDLC contains many attack vectors
 
 ---
 
@@ -29,7 +31,7 @@ SDLC = Software Development Life Cycle<!-- .element: style="font-size:0.8em"-->
 
 <hr>
 
-This example is by no means exhaustive, reality is more complex.</br> All models are wrong. Some models are useful<!-- .element: style="font-size:0.7em"-->
+This example is by no means exhaustive, reality is more complex.</br> "All models are wrong. Some models are useful"<!-- .element: style="font-size:0.7em"-->
 
 ---
 
@@ -40,10 +42,11 @@ This example is by no means exhaustive, reality is more complex.</br> All models
 
 ### What could possibly go wrong?
 
-1. Which part/information flow of the SDLC </br>are we focusing on? Follow the code?
-2. What can go wrong?
-3. What are we going to do about it?
-4. Did we do a good job?
+1. Scope - which part/information flow of the SDLC are we focusing on?
+2. Follow the code?
+3. What can go wrong?
+4. What are we going to do about it?
+5. Did we do a good job?
 
  </div>
 <div  style="grid-area: 1 / 2; font-size:0.7em"">
@@ -61,8 +64,8 @@ This example is by no means exhaustive, reality is more complex.</br> All models
 <div><!-- .element: style="font-size:0.8em"-->
 
 - Identify and document security requirements.<!-- .element: class="fragment" data-fragment-index="1" -->
-- Document SDLC (How we work)<!-- .element: class="fragment" data-fragment-index="2" -->
-- Document runbook (How we operate, monitor)<!-- .element: class="fragment" data-fragment-index="3" -->
+- Document SDLC (How we work, develop)<!-- .element: class="fragment" data-fragment-index="2" -->
+- Document runbook (How we operate)<!-- .element: class="fragment" data-fragment-index="3" -->
 - Select threat model strategy<!-- .element: class="fragment" data-fragment-index="4" -->
   - Part(s)/component(s) of the SDLC<!-- .element: class="fragment" data-fragment-index="5" -->
   - Information flow - follow the code<!-- .element: class="fragment" data-fragment-index="6" -->
@@ -76,7 +79,9 @@ This example is by no means exhaustive, reality is more complex.</br> All models
 
 ❗️Avoid the "perfect" document/model syndrome. Start small, iterate. This goes for security requirements, the SDLC documentation, the runbook etc. Think life cycle - what documentation do we intend to maintain and keep up to date?<!-- .element: style="font-size:0.8em"--><!-- .element: class="fragment" data-fragment-index="10" -->
 
-❓ Reflections<!-- .element: class="fragment" data-fragment-index="10" -->
+<hr>
+
+❓ Reflections<!-- .element: class="fragment" data-fragment-index="11" -->
 
 ---
 
@@ -90,7 +95,7 @@ This example is by no means exhaustive, reality is more complex.</br> All models
 
 <div align="left"><!-- .element: style="font-size:0.7em"-->
 
-In this exercise we will apply the skills we have acquired in the previous exercises and apply them to the SDLC.
+In this exercise we will apply the skills we have acquired in the previous exercises to a fictive SDLC.
 
 Group tasks:
 
@@ -103,7 +108,7 @@ Group tasks:
 
 <hr>
 
-Time boxed schedule (40m):
+⏰ Time boxed schedule (40m):
 
 - 10 + 10 + 10 + 10= 40 to threat model
 

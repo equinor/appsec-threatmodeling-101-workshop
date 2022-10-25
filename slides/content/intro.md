@@ -13,10 +13,13 @@
 
 ## Please note
 
-There are many models and frameworks for doing threat modeling. In this workshop we teach one selected approach. We believe this will be a good starting point for most teams. As teams practices mature - we hope they will explore alternative ways of doing threat modeling. 
+- Threat Modeling can be done in n-ways
+- In this workshop we teach one selected approach.
+- We believe this will be a good starting point for most teams.
+- As teams increase their threat modeling muscles - </br>we assume they will explore alternative ways.
 
 <hr>
-There is no end state for application security, we just learn and improve.
+"There is no end state for application security, we just learn and improve."
 
 ---
 
@@ -26,8 +29,9 @@ There is no end state for application security, we just learn and improve.
 - Learn intentionally, <!-- .element: class="fragment" data-fragment-index="2" --></br> "**learning happens when you do things</br> you do not yet understand**" <!-- .element: class="fragment" data-fragment-index="2" -->
 - Assume good intentions <!-- .element: class="fragment" data-fragment-index="3" -->
 - Value diversity in experience and opinion <!-- .element: class="fragment" data-fragment-index="4" -->
-- Help creating an environment of trust and respect <!-- .element: class="fragment" data-fragment-index="5" -->
-- Context matters a lot. Your perspectives matters!<!-- .element: class="fragment" data-fragment-index="6" -->
+- Help creating a safe environment of trust and respect <!-- .element: class="fragment" data-fragment-index="5" -->
+- Context matters a lot.<!-- .element: class="fragment" data-fragment-index="6" -->
+- Your perspectives matters!<!-- .element: class="fragment" data-fragment-index="7" -->
 
 ---
 
@@ -70,15 +74,6 @@ There is no end state for application security, we just learn and improve.
 - Workshop channel on Equinor Slack workspace is </br> [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4)
 - Schedule
   - 09:00 - 16:00
-  - 12:00- 12:30 Grab & GO lunch
+  - 12:00- 12:30 Lunch
   - 5-10 minutes break every hour </br>- or as an part of the exercises. </br>🛟 us if we forget the breaks.
-- Content will be available after the workshop.
-
----
-
-### 🖖 Getting to know each other 🤝
-
-- A few words on your professional life and passions ❤️‍🔥
-- What team(s) are you part of?
-- What does an ordinary day at work look like?
-- Any expectation to the workshop?
+- All content will be available after the workshop.

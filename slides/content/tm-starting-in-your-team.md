@@ -25,11 +25,11 @@ Given our objective, consider your actual team/context. Explore some of question
 - What external help do we need, and when?
 - For TM, "what is the first thing we will suggest for our team when we get back home"?
 
-Take notes. Anonymize. Post result to workshop slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4).
+Take notes. Anonymize if needed. Post result to workshop slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4).
 
 <hr>
 
-Time boxed schedule (15m):
+⏰ Time boxed schedule (15m):
 
 - 15 Group work
 

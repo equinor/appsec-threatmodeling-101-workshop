@@ -6,9 +6,11 @@
 
 ---
 
-## Next steps
+## What are the next steps in your teams Threat Modeling journey?
 
-What are the next steps in the teams Threat Modeling journey? </br> How will the AppSec Team engage/help? </br> ([link](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
+<hr>
+
+How will the AppSec Team engage/help? </br> ([The EqN AppSec Site](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
 
 
 ---
@@ -28,7 +30,7 @@ What are the next steps in the teams Threat Modeling journey? </br> How will the
 
 Gathering data - the 4L's
 
-For this workshop - discuss/reflect on the following topics:
+For this workshop - discuss/reflect in groups on the following topics:
 
 - Liked
 - Learned
@@ -37,11 +39,11 @@ For this workshop - discuss/reflect on the following topics:
   
 <hr>
 
-- We timebox for 5 minutes and then share.
+⏰ We timebox for 5,75 minutes and then share.
 
 ---
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
 
 # Thank You
 
-We are the @appsecteam - serving #appsec on Slack.
+We are the @appsecteam - </br>serving the developer community -</br> living in #appsec on Slack.

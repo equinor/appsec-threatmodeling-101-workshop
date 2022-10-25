@@ -60,7 +60,6 @@ STRIDE is a model for identifying computer security threats. It provides the fol
 <div><!-- .element: style="font-size:0.7em"-->
 
 - Use mnemonic to identify threats to system<!-- .element: class="fragment" data-fragment-index="1" -->
-- Ask: How could this S,T,R,I,D,E impact the system?<!-- .element: class="fragment" data-fragment-index="2" -->
 - Ways to use:<!-- .element: class="fragment" data-fragment-index="3" -->
   - Follow a story through the diagram,<!-- .element: class="fragment" data-fragment-index="4" --> </br>look for STRIDE threats, iterate<!-- .element: class="fragment" data-fragment-index="4" -->
   - Focus on an element, component, parts of a system </br>and apply STRIDE<!-- .element: class="fragment" data-fragment-index="5" -->
@@ -130,7 +129,7 @@ STRIDE is a model for identifying computer security threats. It provides the fol
 
 <hr>
 
-🕵🏻‍♂️ The [Elevation of Privileges game](https://github.com/adamshostack/eop) is helpful and fun. We plan a follow-up workshop on EoP.
+🕵🏻‍♂️ The [Elevation of Privileges game](https://github.com/adamshostack/eop) (EoP) is helpful and fun. </br>We plan a follow-up workshop on EoP.
 
 ---
 
@@ -183,14 +182,13 @@ Tasks:
 For our example system, using your DFD for whats currently implemented:
 
 - Apply STRIDE, document issues, assumptions and threats
-- (Use the EoP Card Game?)
-- Team decide scope, iterating as you learn is smart!
-- Document on paper (format suggested 👇)
+- Team decide scope, iterating as you are learning is smart!
+- Document format suggested (👇)
 - Prepare to present threats to class
 
 <hr>
 
-Time boxed schedule (30m):
+⏰ Time boxed schedule (30m):
 
 - 30 minutes to apply STRIDE
 

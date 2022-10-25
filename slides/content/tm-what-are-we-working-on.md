@@ -27,9 +27,9 @@
 
 ## DFD (Data Flow Diagrams)
 
-- Whiteboards are excellent tools
 - Threats often follow data => Data Flow Diagrams
 - DFD are simple, easy to learn and sketch
+- Whiteboards are excellent tools
 
 <hr>
 
@@ -78,7 +78,7 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 - Collaborative tools like Miro could be ok<!-- .element: class="fragment" data-fragment-index="6" -->
   - Don't underestimate the learning curve and the "tool trap"!<!-- .element: class="fragment" data-fragment-index="6" -->
   - Provide some Miro training before starting to TM<!-- .element: class="fragment" data-fragment-index="6" -->
-- External systems like<!-- .element: class="fragment" data-fragment-index="7" --> [Irus Risk](https://www.iriusrisk.com/)<!-- .element: class="fragment" data-fragment-index="7" -->, [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)<!-- .element: class="fragment" data-fragment-index="7" -->
+- External systems like<!-- .element: class="fragment" data-fragment-index="7" --> [Irus Risk](https://www.iriusrisk.com/)<!-- .element: class="fragment" data-fragment-index="7" -->, [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)<!-- .element: class="fragment" data-fragment-index="7" -->, [Draw.io](https://draw.io)<!-- .element: class="fragment" data-fragment-index="7" -->
 
 </div>
 
@@ -92,10 +92,10 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 
 - We form groups (4-5 persons), the groups self-organize
 - The group will stay together for all exercises
-- Take a short round of introduction in the groups
+- Take a short round of introduction in the groups 🤝
 - The exercises build on each other
-- We draw on A3 sheets (or similar)
-- We make notes on paper or computer
+- We draw on A3 sheets (boards, flip-overs or similar)
+- We make notes on paper computer
 
 ---
 
@@ -121,7 +121,7 @@ For our [example system](content/images/tm-example-system.png)
 
 <hr>
 
-Time boxed schedule (20m):
+⏰ Time boxed schedule (20m):
 
 - 5 minutes to discuss and clarify system
 - 15 minutes to create DFD
