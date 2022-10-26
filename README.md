@@ -2,7 +2,7 @@
 
 # Threat modeling 101 workshop
 
-<table style="border-style: none">
+<table style="border: 0px">
     <tr>
         <th>A full day threat modeling 101 workshop from the Equinor AppSec team !
         </th>
