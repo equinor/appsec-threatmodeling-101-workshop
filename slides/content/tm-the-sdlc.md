@@ -99,9 +99,10 @@ In this exercise we will apply the skills we have acquired in the previous exerc
 
 Group tasks:
 
+- Examine the system, the SLDC, the assumptions and security requirements
 - Select a <u>flow/part</u> of the example SDLC 👇
 - Create a DFD diagram
-- Identify threats using STRIDE (one or more parts - ex Tampering)
+- Identify threats using STRIDE
 - For threats, select strategy, identify mitigations
 - Document assumptions and security requirements
 - Prepare to present results to class

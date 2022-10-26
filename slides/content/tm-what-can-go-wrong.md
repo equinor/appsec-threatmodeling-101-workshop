@@ -181,6 +181,7 @@ Tasks:
 
 For our example system, using your DFD for whats currently implemented:
 
+- Examine the system, the assumptions and security requirements
 - Apply STRIDE, document issues, assumptions and threats
 - Team decide scope, iterating as you are learning is smart!
 - Document format suggested (👇)

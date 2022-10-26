@@ -115,6 +115,7 @@ Tasks:
 
 For our [example system](content/images/tm-example-system.png)
 
+- Examine the system, the assumptions and security requirements
 - Draw a DFD for the system
 - Document any assumptions you make
 - Prepare to present the model to the class
