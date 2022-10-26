@@ -2,7 +2,7 @@
 
 # Threat modeling 101 workshop
 
-<table>
+<table style="border-style: none">
     <tr>
         <th>A full day threat modeling 101 workshop from the Equinor AppSec team !
         </th>
@@ -39,10 +39,3 @@ The workshop outline looks like this:
 ## Slides
 
 Slides are available from the [./slides](./slides/README.md) folder. The latest generated PDF of the slides is available at [./slides/pdf](./slides/pdf/appsec-threat-modeling-101-slides.pdf)
-
-## Quick links
-
-- [The example system](slides/content/images/tm-example-system.png)
-- [The simple SDLC](slides/content/images/tm-example-sdlc.png)
-- [The more real SDLC](slides/content/images/tm-example-sdlc-real.png)
-- [The example SDLC](slides/content/images/tm-example-system-sdlc.png)
