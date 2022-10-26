@@ -1,15 +1,8 @@
-<!-- markdownlint-disable MD033 -->
-
 # Threat modeling 101 workshop
 
-<table style="border: 0px">
-    <tr>
-        <th>A full day threat modeling 101 workshop from the Equinor AppSec team !
-        </th>
-        <th><img src="./slides/content/images/appsec-icon_100.png" style="margin-left: auto; margin-right:auto; vertical-align: middle; display: block">
-        </th>
-    </tr>
-</table>
+![AppSec Logo](./slides/content/images/appsec-icon_100.png)
+
+A full day threat modeling 101 workshop from the Equinor AppSec team!
 
 ## Purpose
 
