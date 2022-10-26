@@ -19,31 +19,27 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 
 - Get an idea of number of groups. A group should be between 3-5 persons
 - For each group +1, create A3 print of
-  - Example system
-  - Example SDLC
+  - Example system x 2
+  - Example SDLC x 2
 - For each group +1, crate A4 prints of
   - Exercise-1
     - DFD Components
     - DFD Example
-    - Exercise-1
   - Exercise-2
     - The STRIDE introduction
     - The STRIDE per element
-    - Exercise-2
     - Exercise-2 document example
   - Exercise-3
-    - Exercise-3
     - Exercise-3 document example
-  - Exercise-4
-    - Exercise-4
-  - Exercise-5
-    - Exercise-5
 
 ### Accessories
 
-- Pencils (thick)
+- Pencils (thick), grey, color
+- Pencil sharpener
+- Ball pens
+- Rulers
 - Erasers
-- Empty A3 & A4 sheets
+- Empty A3 sheets
 - Pipe-cleaners
   
 ## Post workshop
