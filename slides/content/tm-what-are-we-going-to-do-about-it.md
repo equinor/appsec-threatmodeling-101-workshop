@@ -27,7 +27,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 <div><!-- .element: style="font-size:0.9em"-->
 
 - To mitigate means to add controls that address the threat<!-- .element: class="fragment" data-fragment-index="1" -->
-- Controls are features or technologies<!-- .element: class="fragment" data-fragment-index="2" -->
+- [Controls](https://owasp.org/www-project-proactive-controls/) are features or technologies<!-- .element: class="fragment" data-fragment-index="2" -->
   - Use technology before people or process!<!-- .element: class="fragment" data-fragment-index="2" -->
   - Protect, detect or respond to threats<!-- .element: class="fragment" data-fragment-index="3" -->
 - Mitigation tactics could be<!-- .element: class="fragment" data-fragment-index="4" -->
