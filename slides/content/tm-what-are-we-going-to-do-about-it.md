@@ -24,10 +24,10 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 
 ## Mitigation
 
-<div><!-- .element: style="font-size:0.9em"-->
+<div><!-- .element: style="font-size:0.8em"-->
 
 - To mitigate means to add controls that address the threat<!-- .element: class="fragment" data-fragment-index="1" -->
-- [Controls](https://owasp.org/www-project-proactive-controls/) are features or technologies<!-- .element: class="fragment" data-fragment-index="2" -->
+- Controls are features or technologies<!-- .element: class="fragment" data-fragment-index="2" -->
   - Use technology before people or process!<!-- .element: class="fragment" data-fragment-index="2" -->
   - Protect, detect or respond to threats<!-- .element: class="fragment" data-fragment-index="3" -->
 - Mitigation tactics could be<!-- .element: class="fragment" data-fragment-index="4" -->
@@ -39,6 +39,10 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 - The right tactics will always be situational/context dependent<!-- .element: class="fragment" data-fragment-index="10" -->
 - Custom controls = New Security Tech - avoid?<!-- .element: class="fragment" data-fragment-index="11" -->
 - Explore standard as the first choice<!-- .element: class="fragment" data-fragment-index="11" -->
+
+<hr>
+
+💡<!-- .element: class="fragment" data-fragment-index="12" -->[OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)<!-- .element: class="fragment" data-fragment-index="12" -->
 
 </div>
 ---
