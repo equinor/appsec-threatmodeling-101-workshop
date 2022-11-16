@@ -130,9 +130,11 @@ For some of the threats identified in the previous exercise:
         <td align="center">..</td>
         <td align="center">..</td>
         <td align="center">..</td>
+        <td align="center">..</td>
     </tr>
     <tr>
         <td>4</td>
+        <td align="center">..</td>
         <td align="center">..</td>
         <td align="center">..</td>
         <td align="center">..</td>
@@ -146,7 +148,13 @@ For some of the threats identified in the previous exercise:
 
 ## EX-3: Presentations
 
-Each group present their threats with strategies, fixes and pros/cons
+Each group present their threats
+
+- Threats
+  - Strategies
+  - Fix ideas
+  - Pros/Cons
+- How were the Security Requirements used?
 
 <hr>
 

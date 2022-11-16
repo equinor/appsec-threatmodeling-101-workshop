@@ -259,7 +259,11 @@ Issues:
 
 ## EX-2: Presenting threats
 
-Each group present their STRIDE strategy, key assumptions, issues and threats
+Each group present identified threats
+
+- STRIDE strategy
+- Key assumptions
+- How were the Security Requirements used?
 
 <hr>
 
