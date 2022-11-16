@@ -41,6 +41,7 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 - Erasers
 - Empty A3 sheets
 - Pipe-cleaners
+- Snack to keep the energy levels up during the day
   
 ## Post workshop
 
