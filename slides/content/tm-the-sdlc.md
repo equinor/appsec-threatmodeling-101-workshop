@@ -105,7 +105,7 @@ Group tasks:
 - Identify threats using STRIDE
 - For threats, select strategy, identify mitigations
 - Document assumptions and security requirements
-- Prepare to present results to class
+- Take a picture of your DFD and documents, share on Slack </br>and prepare to present the model to the class
 
 <hr>
 

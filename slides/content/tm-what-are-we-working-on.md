@@ -95,7 +95,9 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 - Take a short round of introduction in the groups 🤝
 - The exercises build on each other
 - We draw on A3 sheets (boards, flip-overs or similar)
-- We make notes on paper computer
+- We make notes on paper
+- Groups take a picture of drawings and notes and share in Slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4) before presenting
+  - We will delete most of these posts from the Slack channel after the workshop
 
 ---
 
@@ -118,14 +120,15 @@ For our [example system](content/images/tm-example-system.png)
 - Examine the system, the assumptions and security requirements
 - Draw a DFD for the system
 - Document any assumptions you make
-- Prepare to present the model to the class
+- Take a picture of your DFD, share on Slack </br>and prepare to present the model to the class
 
 <hr>
 
 ⏰ Time boxed schedule (20m):
 
-- 5 minutes to discuss and clarify system
+- 3 minutes to discuss and clarify system
 - 15 minutes to create DFD
+- 2 minutes to take picture and share on Slack
 
 <hr>
 

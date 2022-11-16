@@ -48,3 +48,4 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 - Review and summarize info gathered in workshop retrospective
 - Do a workshop retrospective amongst presenters
 - Decide on changes, create issues/tasks on board for updates
+- Delete groups output of exercises from course Slack channel (excluding ex-5)

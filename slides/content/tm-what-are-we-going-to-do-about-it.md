@@ -85,7 +85,7 @@ For some of the threats identified in the previous exercise:
 - Select a strategy; at least a few should be "mitigation"
 - Discuss realistic fix'es and document them (controls)
 - Document format suggested (👇)
-- Prepare to present threats to class
+- Take a picture of your documents, share on Slack </br>and prepare to present the model to the class
 
 <hr>
 

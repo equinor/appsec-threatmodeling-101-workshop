@@ -185,7 +185,7 @@ For our example system, using your DFD for whats currently implemented:
 - Apply STRIDE, document issues, assumptions and threats
 - Team decide scope, iterating as you are learning is smart!
 - Document format suggested (👇)
-- Prepare to present threats to class
+- Take a picture of your documents, share on Slack </br>and prepare to present the model to the class
 
 <hr>
 
