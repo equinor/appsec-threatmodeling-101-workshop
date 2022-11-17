@@ -27,6 +27,8 @@ Given our objective, consider your actual team/context. Explore some of question
 
 Take notes. Anonymize if needed. Post result to workshop slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4).
 
+The taller person in the group becomes group lead for this exercise.
+
 <hr>
 
 ⏰ Time boxed schedule (15m):
@@ -63,7 +65,6 @@ Each group present their results
    - Create a DFD and do a full end-2-end TM using STRIDE
 5. W5: Do TM retrospective, align on next steps, continue
 6. W5: Share experiences with the #AppSec community!
-
-
+7. W6: Experiment with EoP
 
 </div>

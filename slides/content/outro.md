@@ -26,10 +26,12 @@
   - Izar Tarandach
   - Matthew J. Coles
 - 🕵🏻‍♂️ [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+- 🕵🏻‍♂️ [A Guide to Threat Modelling for Developers](https://martinfowler.com/articles/agile-threat-modelling.html)
+  - Jim Gumbley, Martin Fowler
 
 ---
 
-## Retrospective
+## Workshop Retrospective
 
 Gathering data - the 4L's
 
@@ -42,7 +44,7 @@ For this workshop - discuss/reflect in groups on the following topics:
   
 <hr>
 
-⏰ We timebox for 5,75 minutes and then share.
+⏰ We timebox for 5 minutes and then share verbally.
 
 ---
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->

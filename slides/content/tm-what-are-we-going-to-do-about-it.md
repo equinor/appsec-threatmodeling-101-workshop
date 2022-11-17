@@ -18,7 +18,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 
 <hr>
 
-💡Threat vs. Risk: A threat is a future problem. A risk is a threat with probability and impact. We do not need probability and impact to manage threats!<!-- .element: class="fragment" data-fragment-index="8" -->
+💡Threat vs. Risk: A threat is a future problem. A risk is a threat with probability and impact. We do not need probability and impact to manage threats!<!-- .element: class="fragment" data-fragment-index="9" -->
 
 ---
 
@@ -39,10 +39,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 - The right tactics will always be situational/context dependent<!-- .element: class="fragment" data-fragment-index="10" -->
 - Custom controls = New Security Tech - avoid?<!-- .element: class="fragment" data-fragment-index="11" -->
 - Explore standard as the first choice<!-- .element: class="fragment" data-fragment-index="11" -->
-
-<hr>
-
-💡<!-- .element: class="fragment" data-fragment-index="12" -->[OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)<!-- .element: class="fragment" data-fragment-index="12" -->
+- 💡<!-- .element: class="fragment" data-fragment-index="12" --> [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)<!-- .element: class="fragment" data-fragment-index="12" -->
 
 </div>
 ---
@@ -52,7 +49,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 <div><!-- .element: style="font-size:0.7em"-->
 
 - Document<!-- .element: class="fragment" data-fragment-index="2" -->
-  - Write down and track (use teams tool chain)<!-- .element: class="fragment" data-fragment-index="2" -->
+  - Write down and track threats (use teams tool chain)<!-- .element: class="fragment" data-fragment-index="2" -->
   - Track as bugs, features, security stories, security debt<!-- .element: class="fragment" data-fragment-index="2" -->
 - Prioritize<!-- .element: class="fragment" data-fragment-index="3" -->
   - Align with reality, team, product owner<!-- .element: class="fragment" data-fragment-index="4" -->
@@ -62,7 +59,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
   - Add to team backlog<!-- .element: class="fragment" data-fragment-index="8" -->
   - Don't re-invent the wheel<!-- .element: class="fragment" data-fragment-index="9" -->
   - Assessing implementation will be a lot easier if</br> a larger part of team participate in threat modeling<!-- .element: class="fragment" data-fragment-index="10" -->
-  - Code tests to identify - provoke - trigger controls, signals to operations etc.<!-- .element: class="fragment" data-fragment-index="11" -->
+  - Code tests to identified threats - that provoke threats - </br>to trigger controls, signals to operations ...?<!-- .element: class="fragment" data-fragment-index="11" -->
 
 </div>
 
@@ -80,12 +77,14 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 
 Tasks:
 
-For some of the threats identified in the previous exercise:
+For **some** of the threats identified in the previous exercise:
 
 - Select a strategy; at least a few should be "mitigation"
 - Discuss realistic fix'es and document them (controls)
 - Document format suggested (👇)
 - Take a picture of your documents, share on Slack </br>and prepare to present the model to the class
+
+The person in the group which last went to the movies becomes group lead for this exercise.
 
 <hr>
 
