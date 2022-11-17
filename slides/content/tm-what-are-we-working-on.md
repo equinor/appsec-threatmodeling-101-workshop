@@ -95,6 +95,7 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 - Take a short round of introduction in the groups 🤝
 - The exercises build on each other
 - We draw on A3 sheets (boards, flip-overs or similar)
+- We use thick-✏️ when drawing (it's easier to read) 
 - We make notes on paper
 - Groups take a picture of drawings and notes and share in Slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4) before presenting
   - We will delete most of these posts from the Slack channel after the workshop
