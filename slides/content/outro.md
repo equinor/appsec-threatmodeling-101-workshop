@@ -6,12 +6,15 @@
 
 ---
 
-## What are the next steps in your teams Threat Modeling journey?
+## Engage the AppSec community in your Threat Modeling Journey!
 
 <hr>
 
-How will the AppSec Team engage/help? </br> ([The EqN AppSec Site](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
+🥰 The AppSec Team can engage/help </br> ([The EqN AppSec Site](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
 
+🧐 Post a **real** threat model to the course Slack channel,</br> ask for friendly advice/critique
+
+🎪 Share from your Threat Modeling stories in #AppSec
 
 ---
 
