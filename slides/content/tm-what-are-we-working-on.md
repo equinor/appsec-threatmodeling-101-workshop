@@ -13,7 +13,7 @@
 
 ---
 
-## Purpose of Models / Diagrams
+## Purpose of ™️Models / Diagrams
 
 - Diagrams expose thinking and triggers discussions<!-- .element: class="fragment" data-fragment-index="1" -->
 - Diagrams are scoping tools </br>(what's in, out, boundaries)<!-- .element: class="fragment" data-fragment-index="2" -->
@@ -21,7 +21,7 @@
 
 <hr>
 
-❗️Pick up a pen and start writing, </br>tell a story, show data flow and boundaries<!-- .element: class="fragment" data-fragment-index="4" -->
+🏁 Pick up a pen and start drawing, </br>tell a story, show data flow and boundaries<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -33,7 +33,7 @@
 
 <hr>
 
-We use data flow diagrams because they provide us with a simple representation of how data, and thus threats, flow through a system.
+❗️We use data flow diagrams because they provide us with a simple representation of how data, and thus threats, flow through a system.
 
 ---
 
@@ -51,13 +51,23 @@ We use data flow diagrams because they provide us with a simple representation o
 
 ## Trust boundaries
 
+<div><!-- .element: style="font-size:0.8em"-->
+
 - Trust boundaries are where different users interact<!-- .element: class="fragment" data-fragment-index="1" -->
   - Where principals interact<!-- .element: class="fragment" data-fragment-index="1" -->
+    - Users, Apps, Identities<!-- .element: class="fragment" data-fragment-index="1" -->
+    - A principal is often the smallest unit you can name in a policy  <!-- .element: class="fragment" data-fragment-index="1" -->
   - The mechanism that isolates them<!-- .element: class="fragment" data-fragment-index="1" -->
   - Policies are enforced at boundaries<!-- .element: class="fragment" data-fragment-index="1" -->
 - Trust boundaries needs to be explicit about what, where, how.<!-- .element: class="fragment" data-fragment-index="2" -->
 - Trust boundaries needs agreements<!-- .element: class="fragment" data-fragment-index="3" --> </br>(how to enforce, configure, test)<!-- .element: class="fragment" data-fragment-index="3 -->
 - Trust boundaries should be labeled<!-- .element: class="fragment" data-fragment-index="4" -->
+
+<hr>
+
+💡 Examples: File permission - enforced by kernel, network hosts - enforced by firewall, app permissions - enforced by IAM and app <!-- .element: class="fragment" data-fragment-index="5" -->
+
+</dev>
 
 ---
 
@@ -65,10 +75,9 @@ We use data flow diagrams because they provide us with a simple representation o
 
 <div><!-- .element: style="font-size:0.8em"-->
 
-- Models communicate thinking =><!-- .element: class="fragment" data-fragment-index="1" --> </br>involve and share for learning<!-- .element: class="fragment" data-fragment-index="2" -->
-- Think lifecycle, maintenance for models =><!-- .element: class="fragment" data-fragment-index="2" --> </br> What should we store, maintain?<!-- .element: class="fragment" data-fragment-index="3" -->
-- Effort grows with formality => <!-- .element: class="fragment" data-fragment-index="3" --></br> Legal requirements, regulations, GDPR, ++ <!-- .element: class="fragment" data-fragment-index="4" -->
-- Store with code, in team sites, ...? Explore options<!-- .element: class="fragment" data-fragment-index="5" -->
+- Think lifecycle and maintenance for models,</br> store some for the records - some for keeping up-to-date?<!-- .element: class="fragment" data-fragment-index="1" -->
+- Effort grows with formality, <!-- .element: class="fragment" data-fragment-index="2" --></br> legal requirements, regulations, GDPR, ++ <!-- .element: class="fragment" data-fragment-index="2" -->
+- Store with code, in separate repos, in sharepoint, ...? </br>Explore options. Some data could be sensitive<!-- .element: class="fragment" data-fragment-index="5" -->
 
 <hr>
 
@@ -78,6 +87,7 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 - Collaborative tools like Miro could be ok<!-- .element: class="fragment" data-fragment-index="6" -->
   - Don't underestimate the learning curve and the "tool trap"!<!-- .element: class="fragment" data-fragment-index="6" -->
   - Provide some Miro training before starting to TM<!-- .element: class="fragment" data-fragment-index="6" -->
+  - Remember information sensitivity!
 - External systems like<!-- .element: class="fragment" data-fragment-index="7" --> [Irus Risk](https://www.iriusrisk.com/)<!-- .element: class="fragment" data-fragment-index="7" -->, [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)<!-- .element: class="fragment" data-fragment-index="7" -->, [Draw.io](https://draw.io)<!-- .element: class="fragment" data-fragment-index="7" -->
 
 </div>
@@ -90,12 +100,17 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ## Organizing groups and work
 
-- We form groups (4-5 persons), the groups self-organize
+- We form groups (4-5 persons)
 - The group will stay together for all exercises
-- Take a short round of introduction in the groups 🤝
 - The exercises build on each other
 - We draw on A3 sheets (boards, flip-overs or similar)
-- We make notes on paper computer
+- We use thick-✏️ when drawing (it's easier to read) 
+- We make notes on paper
+- Groups take a picture of drawings and notes and share in Slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4) before presenting
+  - We will delete most of these posts from the Slack channel after the workshop
+- Make sure to take a short round of introduction in the groups 🤝
+
+🚶🏼Reshuffle groups now if needed 🚶🏿‍♀️
 
 ---
 
@@ -107,7 +122,7 @@ Examples:<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ## EX-1: Drawing a data flow diagram
 
-<div><!-- .element: style="font-size:0.8em;text-align:left"-->
+<div><!-- .element: style="font-size:0.7em;text-align:left"-->
 
 <hr>
 
@@ -118,14 +133,17 @@ For our [example system](content/images/tm-example-system.png)
 - Examine the system, the assumptions and security requirements
 - Draw a DFD for the system
 - Document any assumptions you make
-- Prepare to present the model to the class
+- Take a picture of your DFD, share on Slack </br>and prepare to present the model to the class
+
+The person in the group which has the next birthday becomes group lead for this exercise.
 
 <hr>
 
 ⏰ Time boxed schedule (20m):
 
-- 5 minutes to discuss and clarify system
+- 3 minutes to discuss and clarify system
 - 15 minutes to create DFD
+- 2 minutes to take picture and share on Slack
 
 <hr>
 

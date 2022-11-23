@@ -6,14 +6,14 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 
 ### Scheduling and invitation
 
-- Identify teams, we recommend that the "complete" team participate.
+- Identify participants, we encourage "complete" team to participate. There should at least be 3 persons from a team participating.
 - "> 10 and < 20 participants usually works fine"
 - Define date & time
-- Book physical room which support working in groups
-- Clarify lunch, diet constraints.
-- Create calendar invite, invite people
-- Update calendar invite with agenda, expectations and preparations
-- Ask participant to join relevant Slack channels
+- Book physical room which support working in groups, create a calendar entry.
+- Create a sign-up document, open the sign-up document for **write** for everyone with and Eqn Account
+- Announce the workshop on relevant Slack channels
+- Update the calendar invite, invite people that has gotten a space at the WS
+- Update calendar invite with agenda, expectations and preparations, including the Slack channel to join
 
 ### Print artefacts
 
@@ -41,9 +41,12 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 - Erasers
 - Empty A3 sheets
 - Pipe-cleaners
+- Snack to keep the energy levels up during the day
   
 ## Post workshop
 
 - Review and summarize info gathered in workshop retrospective
 - Do a workshop retrospective amongst presenters
 - Decide on changes, create issues/tasks on board for updates
+- Delete groups output of exercises from course Slack channel (excluding ex-5)
+- Remove permission from sign-up document. Should only be available to the AppSec team after the WS for statistics

@@ -21,11 +21,13 @@ Group task:
 
 Given our objective, consider your actual team/context. Explore some of questions below:
 
+- For TM, "what is the first thing we will suggest for our team when we get back home"?
 - What do we need to do to make TM a consistent part of "what we do"?
 - What external help do we need, and when?
-- For TM, "what is the first thing we will suggest for our team when we get back home"?
 
 Take notes. Anonymize if needed. Post result to workshop slack channel [#appsec-threatmodeling-workshop](https://equinor.slack.com/archives/C046T5B84P4).
+
+The taller person in the group becomes group lead for this exercise.
 
 <hr>
 
@@ -63,7 +65,6 @@ Each group present their results
    - Create a DFD and do a full end-2-end TM using STRIDE
 5. W5: Do TM retrospective, align on next steps, continue
 6. W5: Share experiences with the #AppSec community!
-
-
+7. W6: Experiment with EoP
 
 </div>

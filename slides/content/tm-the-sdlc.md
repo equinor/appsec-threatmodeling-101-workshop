@@ -1,15 +1,15 @@
 <!-- markdownlint-disable MD033 -->
 
-# Threat modeling the SDLC</br>∞
+# Threat Modeling the SDLC</br>∞
 
 SDLC = Software/System Development Life Cycle<!-- .element: style="font-size:0.8em"-->
 
 ---
 
-# Threat modeling effort
+## Current Threat Modeling effort
 
-- Most security effort is going into security for the systems that</br> we have deployed, the applications in production
-- What about the various components/parts of our SDLC?
+- Most security effort is going into security for the systems that</br> we have deployed, the applications we develop
+- We spend a lot less time on threat modeling </br>how we work - our SDLC
 - Supply chain attacks are in the wind
 - The SDLC contains many attack vectors
 
@@ -35,7 +35,7 @@ This example is by no means exhaustive, reality is more complex.</br> "All model
 
 ---
 
-## Threat modeling our SDLC
+## Threat Modeling our SDLC
 
 <div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 50% 50%;">
  <div  style="grid-area: 1 / 1;font-size:0.7em"">
@@ -89,7 +89,13 @@ This example is by no means exhaustive, reality is more complex.</br> "All model
 
 ---
 
-## EX-4: Doing an <u>end-to-end</u> threat model
+## EX-4: Example SDLC
+
+<img src="./content/images/tm-example-system-sdlc.png" width="65%" height="auto" display="block" margin-left="auto" margin-right="auto">
+
+---
+
+## EX-4: Doing an <u>end-to-end</u> Threat Model
 
 <hr>
 
@@ -105,7 +111,9 @@ Group tasks:
 - Identify threats using STRIDE
 - For threats, select strategy, identify mitigations
 - Document assumptions and security requirements
-- Prepare to present results to class
+- Take a picture of your DFD and documents, share on Slack </br>and prepare to present the model to the class
+
+The person in the group which last joined an IT conference becomes group lead for this exercise.
 
 <hr>
 
@@ -115,11 +123,6 @@ Group tasks:
 
 </div>
 
----
-
-## EX-4: Example system
-
-<img src="./content/images/tm-example-system-sdlc.png" width="65%" height="auto" display="block" margin-left="auto" margin-right="auto">
 
 ---
 
