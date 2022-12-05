@@ -113,7 +113,7 @@ Threat modeling is much like brushing your teeth 🪥;</br> - daily short sessio
 - "You never done threat modeling" => </br>You do it all the time!<!-- .element: class="fragment" data-fragment-index="2" -->
 - "Threat modeling is easy" => </br>No, it requires continuos planned effort to build a muscle.<!-- .element: class="fragment" data-fragment-index="3" -->
 - "Threat modeling is for specialists" => </br>No, every team role plays it's part, everyone should participate<!-- .element: class="fragment" data-fragment-index="4" -->
-- "Threat modeling as ONE skill ..." => </br> Threat modeling is experience, techniques (DFD, Stide,.. ), repertoire, (tools, books, blogs) ... just like software development<!-- .element: class="fragment" data-fragment-index="5" -->
+- "Threat modeling as ONE skill ..." => </br> Threat modeling is experience, techniques (DFD, STRIDE,.. ), repertoire, (tools, books, blogs) ... just like software development<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ---
 
