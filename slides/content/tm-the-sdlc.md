@@ -113,7 +113,7 @@ Group tasks:
 - Document assumptions and security requirements
 - Take a picture of your DFD and documents, share on Slack </br>and prepare to present the model to the class
 
-The person in the group which last joined an IT conference becomes group lead for this exercise.
+The person in the group which last joined an Software Development Conference becomes group lead for this exercise.
 
 <hr>
 

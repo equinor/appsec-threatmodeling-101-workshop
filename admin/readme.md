@@ -50,3 +50,4 @@ Tasks to do before/after workshop. Current set-up is assuming a physical worksho
 - Decide on changes, create issues/tasks on board for updates
 - Delete groups output of exercises from course Slack channel (excluding ex-5)
 - Remove permission from sign-up document. Should only be available to the AppSec team after the WS for statistics
+- Remove group work (ex 1-4) from Slack channel
