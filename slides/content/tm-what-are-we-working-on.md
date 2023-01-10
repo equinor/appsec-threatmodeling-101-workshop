@@ -53,19 +53,16 @@
 
 <div><!-- .element: style="font-size:0.8em"-->
 
-- Trust boundaries are where different users interact<!-- .element: class="fragment" data-fragment-index="1" -->
-  - Where principals interact<!-- .element: class="fragment" data-fragment-index="1" -->
-    - Users, Apps, Identities<!-- .element: class="fragment" data-fragment-index="1" -->
-    - A principal is often the smallest unit you can name in a policy  <!-- .element: class="fragment" data-fragment-index="1" -->
-  - The mechanism that isolates them<!-- .element: class="fragment" data-fragment-index="1" -->
-  - Policies are enforced at boundaries<!-- .element: class="fragment" data-fragment-index="1" -->
-- Trust boundaries needs to be explicit about what, where, how.<!-- .element: class="fragment" data-fragment-index="2" -->
-- Trust boundaries needs agreements<!-- .element: class="fragment" data-fragment-index="3" --> </br>(how to enforce, configure, test)<!-- .element: class="fragment" data-fragment-index="3 -->
-- Trust boundaries should be labeled<!-- .element: class="fragment" data-fragment-index="4" -->
+- Trust boundaries is where entities/principals with different privileges interact, talk to each other<!-- .element: class="fragment" data-fragment-index="1" -->
+- A<!-- .element: class="fragment" data-fragment-index="2" --> [principal](https://en.wikipedia.org/wiki/Principal_(commercial_law)<!-- .element: class="fragment" data-fragment-index="2" --> (a noun): Someone, something that is authorized to act as an agent/representative. It could be users, UID's, apps, service principals, devices, deployment instances, physical data centers .... <!-- .element: class="fragment" data-fragment-index="2" -->
+- A principal is often the smallest unit you can name in a policy (iam object in access policies, UID's on a desktop/server) <!-- .element: class="fragment" data-fragment-index="3" -->
+- Trust boundaries needs to be explicit about what, where, how. <!-- .element: class="fragment" data-fragment-index="4" -->
+- Trust boundaries needs info/agreements on the mechanism that isolates them, on how to enforce, configure and test them <!-- .element: class="fragment" data-fragment-index="5" -->
+- Trust boundaries should be labeled <!-- .element: class="fragment" data-fragment-index="6" -->
 
 <hr>
 
-💡 Examples: File permission - enforced by kernel, network hosts - enforced by firewall, app permissions - enforced by IAM and app <!-- .element: class="fragment" data-fragment-index="5" -->
+💡 Examples: File permission - enforced by kernel, network hosts - enforced by firewall, app permissions - enforced by IAM and app <!-- .element: class="fragment" data-fragment-index="7" -->
 
 </dev>
 
@@ -75,7 +72,7 @@
 
 <div><!-- .element: style="font-size:0.8em"-->
 
-- Think lifecycle and maintenance for models,</br> store some for the records - some for keeping up-to-date?<!-- .element: class="fragment" data-fragment-index="1" -->
+- Think lifecycle and maintenance for models and artifacts,</br> store some for the records - some for keeping up-to-date?<!-- .element: class="fragment" data-fragment-index="1" -->
 - Effort grows with formality, <!-- .element: class="fragment" data-fragment-index="2" --></br> legal requirements, regulations, GDPR, ++ <!-- .element: class="fragment" data-fragment-index="2" -->
 - Store with code, in separate repos, in sharepoint, ...? </br>Explore options. Some data could be sensitive<!-- .element: class="fragment" data-fragment-index="5" -->
 
