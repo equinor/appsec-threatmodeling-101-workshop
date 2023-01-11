@@ -101,7 +101,7 @@ We acknowledge that; models always fall short of the complexities of reality - b
 
 <hr>
 
-Threat modeling is much like brushing your teeth 🪥;</br> - daily short sessions -
+Threat modeling is much like brushing your teeth 🪥;</br> - 2 minutes 2 times a day -
 
 ---
 
@@ -117,7 +117,7 @@ Threat modeling is much like brushing your teeth 🪥;</br> - daily short sessio
 
 ## Misconceptions
 
-- "Think like an attacker" => </br>Who knows how an attacker think?</br>Focus on serious work, structure and consistency<!-- .element: class="fragment" data-fragment-index="1" -->
+- "Think like an attacker" => </br>Who knows how an attacker think?</br>TM is hard work requiring structure and consistency<!-- .element: class="fragment" data-fragment-index="1" -->
 - "You never done threat modeling" => </br>You do it all the time!<!-- .element: class="fragment" data-fragment-index="2" -->
 - "Threat modeling is easy" => </br>No, it requires continuos planned effort to build a muscle.<!-- .element: class="fragment" data-fragment-index="3" -->
 - "Threat modeling is for specialists" => </br>No, every team role plays it's part, everyone should participate<!-- .element: class="fragment" data-fragment-index="4" -->

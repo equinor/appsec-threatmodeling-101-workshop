@@ -61,10 +61,10 @@ STRIDE is a model for identifying computer security threats. It provides the fol
 
 - Use S-T-R-I-D-E mnemonic to identify threats to system<!-- .element: class="fragment" data-fragment-index="1" -->
 - Ways to use:<!-- .element: class="fragment" data-fragment-index="3" -->
-  - Follow a user story through the diagram,<!-- .element: class="fragment" data-fragment-index="4" --> </br>look for STRIDE threats, iterate<!-- .element: class="fragment" data-fragment-index="4" -->
-  - Focus on an element, component, parts of a system </br>and apply STRIDE<!-- .element: class="fragment" data-fragment-index="5" -->
+  - Follow a user story through the diagram,<!-- .element: class="fragment" data-fragment-index="4" --> </br>look for S-T-R-I-D-E threats along the path, iterate<!-- .element: class="fragment" data-fragment-index="4" -->
+  - Focus on an element, component, part of a system </br>and apply S-T-R-I-D-E<!-- .element: class="fragment" data-fragment-index="5" -->
   - Looping the diagram:<!-- .element: class="fragment" data-fragment-index="6" -->
-    - For all elements in the diagram -> for each (STRIDE) threat -> </br>specify how threat to element works<!-- .element: class="fragment" data-fragment-index="7" -->
+    - For all elements in the diagram -> for each (S-T-R-I-D-E) threat -> </br>specify how threat to element works<!-- .element: class="fragment" data-fragment-index="7" -->
     - For each S-T-R-I-D-E threat -> for each element in diagram -> </br>specify how threat to element works<!-- .element: class="fragment" data-fragment-index="8" --> 
 - As you learn -> iterate<!-- .element: class="fragment" data-fragment-index="9" -->
 
@@ -73,7 +73,7 @@ STRIDE is a model for identifying computer security threats. It provides the fol
 <hr>
 
 ❗️There are quite a few alternatives to STRIDE. We choose to focus on STRIDE when introducing Threat Modeling to teams. It has proven to be useful in many relevant scenarios.<!-- .element: style="font-size:0.7em"--><!-- .element: class="fragment" data-fragment-index="10" -->
-</br>Some alternatives: [MITRE ATT&CK](https://attack.mitre.org/), [Attack Tree](https://en.wikipedia.org/wiki/Attack_tree), [PASTA](https://versprite.com/tag/pasta-threat-modeling/), [DREAD](https://en.wikipedia.org/wiki/DREAD_%28risk_assessment_model%29), VAST, STRIKE .. <!-- .element: style="font-size:0.5em"-->
+</br>Some alternatives: [MITRE ATT&CK](https://attack.mitre.org/), [Attack Tree](https://en.wikipedia.org/wiki/Attack_tree), [PASTA](https://versprite.com/tag/pasta-threat-modeling/), [DREAD](https://en.wikipedia.org/wiki/DREAD_%28risk_assessment_model%29), VAST, STRIKE .... <!-- .element: style="font-size:0.5em"-->
 
 ---
 
@@ -140,7 +140,7 @@ STRIDE is a model for identifying computer security threats. It provides the fol
 - Track assumptions as they are discoverd<!-- .element: class="fragment" data-fragment-index="2" -->
 - Issues and assumptions are input to<!-- .element: class="fragment" data-fragment-index="3" --> </br>"What are we going to do about it?"<!-- .element: class="fragment" data-fragment-index="3" -->
 - Recommended practice:<!-- .element: class="fragment" data-fragment-index="4" -->
-  - Appoint a note taker<!-- .element: class="fragment" data-fragment-index="5" -->
+  - <!-- .element: class="fragment" data-fragment-index="5" --><a style="color:red">Appoint a note taker</a><!-- .element: class="fragment" data-fragment-index="5" -->
   - Record meetings / sessions<!-- .element: class="fragment" data-fragment-index="6" -->
   - Create a team strategy for how to </br>document, what to document, where to store ++. </br>Experiment and iterate<!-- .element: class="fragment" data-fragment-index="7" -->
 
@@ -161,11 +161,10 @@ Some useful questions/statements:
 - "Remember we have technical/security debt?"<!-- .element: class="fragment" data-fragment-index="4" -->
 - "Last iteration we made this temporary solution ...."<!-- .element: class="fragment" data-fragment-index="5" -->
 - "I read through ASVS and was wondering how we ...."<!-- .element: class="fragment" data-fragment-index="6" -->
-- 🚫 Think like an attacker<!-- .element: class="fragment" data-fragment-index="7" -->
 
 <hr>
 
-❗️There are many guides and books available discussing the mechanics of threats. There are threats libraries available. It's usually a good idea to augment our threat modeling with these aids after we have reached a bit of maturity<!-- .element: class="fragment" data-fragment-index="8" style="font-size:0.8em" -->
+❗️There are many guides and books available discussing the mechanics of threats. There are threats libraries available. It's usually a good idea to augment our threat modeling with these aids〝after〞we have reached a bit of maturity<!-- .element: class="fragment" data-fragment-index="8" style="font-size:0.8em" -->
 
 ---
 
@@ -263,11 +262,13 @@ Issues:
 
 ## EX-2: Presenting threats
 
-Each group present identified threats
+Each group present identified
 
-- STRIDE strategy
-- Key assumptions
-- How were the Security Requirements used?
+- Threats
+- Assumptions
+- Issues
+
+Which STRIDE strategy did you use?</br>Did you use the Security Requirements?
 
 <hr>
 

@@ -55,16 +55,18 @@ Each group present their results
 1. W1: Create list of security requirements, max 10. </br> 50/50 from governance and [OWASP ASVS L1](https://owasp.org/www-project-application-security-verification-standard/)
 2. W2: End-2-End TM of a key system/app (⏲️-box to 1,5 hours)
    1. Create a high level DFD
-   2. Use brainstorming to identify threats
+   2. Use <a style="color:red">brainstorming</a> to identify threats
    3. Manage threats, prioritize, select 2-3 items for teams backlog
 3. W3: End-2-End TM of SDLC (⏲️-box to 1,5 hours)
    1. Create a high level DFD of your SDLC, follow the code.
-   2. Use brainstorming to identify threats
+   2. Use  <a style="color:red">brainstorming</a> to identify threats
    3. Manage threats, prioritize, select 2-3 items for teams backlog
 4. W4: Select "a more narrow" scope of a system/app
-   - Create a DFD and do a full end-2-end TM using STRIDE
+   - Create a DFD and do a full end-2-end TM  <a style="color:red">using STRIDE</a>
 5. W5: Do TM retrospective, align on next steps, continue
 6. W5: Share experiences with the #AppSec community!
 7. W6: Experiment with EoP
+
+Expert tip: Use a note taker for each of the sessions. </br>This role could rotate between team members.
 
 </div>

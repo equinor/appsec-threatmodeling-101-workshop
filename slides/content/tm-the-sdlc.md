@@ -8,7 +8,7 @@ SDLC = Software/System Development Life Cycle<!-- .element: style="font-size:0.8
 
 ## Current Threat Modeling effort
 
-- Most security effort is going into security for the systems that</br> we have deployed, the applications we develop
+- Most "security effort" is going into security for the systems that</br> we have deployed, the applications we develop
 - We spend a lot less time on threat modeling </br>how we work - our SDLC
 - Supply chain attacks are in the wind
 - The SDLC contains many attack vectors
@@ -31,7 +31,7 @@ SDLC = Software/System Development Life Cycle<!-- .element: style="font-size:0.8
 
 <hr>
 
-This example is by no means exhaustive, reality is more complex.</br> "All models are wrong. Some models are useful"<!-- .element: style="font-size:0.7em"-->
+This example is by no means exhaustive, reality is often much more complex.</br> "All models are wrong. Some models are useful"<!-- .element: style="font-size:0.7em"-->
 
 ---
 
@@ -43,7 +43,7 @@ This example is by no means exhaustive, reality is more complex.</br> "All model
 ### What could possibly go wrong?
 
 1. Scope - which part/information flow of the SDLC are we focusing on?
-2. Follow the code?
+2. Code is information, follow the code.
 3. What can go wrong?
 4. What are we going to do about it?
 5. Did we do a good job?
@@ -108,9 +108,9 @@ Group tasks:
 - Examine the system, the SLDC, the assumptions and security requirements
 - Select a <u>flow/part</u> of the example SDLC 👇
 - Create a DFD diagram
-- Identify threats using STRIDE
+- Identify threats using STRIDE or brainstorming
+- Document assumptions and issues
 - For threats, select strategy, identify mitigations
-- Document assumptions and security requirements
 - Take a picture of your DFD and documents, share on Slack </br>and prepare to present the model to the class
 
 The person in the group which last joined an Software Development Conference becomes group lead for this exercise.
@@ -122,7 +122,6 @@ The person in the group which last joined an Software Development Conference bec
 - 10 + 10 + 10 + 10= 40 to threat model
 
 </div>
-
 
 ---
 
