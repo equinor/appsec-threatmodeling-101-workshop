@@ -14,11 +14,11 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
   - Accept; tactic: document acceptance, transfer risk to customer?<!-- .element: class="fragment" data-fragment-index="5" -->
   - Transfer; tactic: "UI,license,insurance,..", document and track<!-- .element: class="fragment" data-fragment-index="6" -->
   - Mitigate; tactic: add controls<!-- .element: class="fragment" data-fragment-index="7" -->
-- Check/verify assumptions<!-- .element: class="fragment" data-fragment-index="8" -->
+- Check/verify assumptions/issues<!-- .element: class="fragment" data-fragment-index="8" -->
 
 <hr>
 
-💡Threat vs. Risk: A threat is a future problem. A risk is a threat with probability and impact. We do not need probability and impact to manage threats!<!-- .element: class="fragment" data-fragment-index="9" -->
+💡Threat vs. Risk: A threat is a future problem. A risk is a threat with probability and impact. Probability and impact assessments is not mandatory to manage all threats! <small>(Example: Scanning a Docker base image reveals 350 vulnerabilities. You do not need a detailed risk assessment for all issues; you know that you should "update the base image") </small><!-- .element: class="fragment" data-fragment-index="9" -->
 
 ---
 
@@ -44,7 +44,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 </div>
 ---
 
-## Managing "What are we going to do about it"
+## Managing</br> "What are we going to do about it"
 
 <div><!-- .element: style="font-size:0.7em"-->
 
@@ -54,6 +54,7 @@ Tactics, Strategies, Alignment, Prioritisation, Documentation<!-- .element: styl
 - Prioritize<!-- .element: class="fragment" data-fragment-index="3" -->
   - Align with reality, team, product owner<!-- .element: class="fragment" data-fragment-index="4" -->
   - Prioritization always includes effort to fix - and operate.<!-- .element: class="fragment" data-fragment-index="5" -->
+  - Prioritization may include probability and impact assessments<!-- .element: class="fragment" data-fragment-index="5" -->
   - Agree on severity categories: </br>example sev1 means fix ASAP, sev2 means within 7 days ....<!-- .element: class="fragment" data-fragment-index="6" -->
 - Implement<!-- .element: class="fragment" data-fragment-index="7" -->
   - Add to team backlog<!-- .element: class="fragment" data-fragment-index="8" -->
@@ -147,7 +148,7 @@ The person in the group which last went to the movies becomes group lead for thi
 
 ## EX-3: Presentations
 
-Each group present their threats
+Each group present:
 
 - Threats
   - Strategies

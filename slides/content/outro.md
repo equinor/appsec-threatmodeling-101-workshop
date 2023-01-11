@@ -10,11 +10,11 @@
 
 <hr>
 
-🥰 The AppSec Team can engage/help </br> ([The EqN AppSec Site](https://equinor.github.io/appsec/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
+🥰 The AppSec Team can engage/help </br> ([The EqN AppSec Site](https://appsec.equinor.com/threat-modeling/threat-modeling-101-workshop/2-next-steps/))
 
 🧐 Post a **real** threat model to the course Slack channel,</br> ask for friendly advice/critique
 
-🎪 Share from your Threat Modeling stories in #AppSec
+🎪 Share your Threat Modeling stories in #AppSec
 
 ---
 
@@ -52,3 +52,5 @@ For this workshop - discuss/reflect in groups on the following topics:
 # Thank You
 
 We are the @appsecteam - </br>serving the developer community -</br> living in #appsec on Slack.
+
+🕸️ [appsec.equinor.com](https://appsec.equinor.com) 🕸️

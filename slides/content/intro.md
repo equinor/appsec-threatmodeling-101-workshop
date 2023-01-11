@@ -35,22 +35,25 @@
 
 ---
 
-## Who are we?
+## What's the AppSec team?
 
-<div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 50% 50%;">
+<div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 70% 30%;">
 
 <div  style="grid-area: 1 / 1"><!-- .element: style="font-size:0.9em"-->
 
 <hr>
 
-- Equinor's AppSec Team
+- Equinor's AppSec Team Purpose</br>
+"... is to reduce cyber security risk in Equinor's SDLC effort (SDLC = Software Development Life Cycle)"
+- Our target is Equinor's DevOps teams
+- We are an "enabler" team
 - [#AppSec @ Slack](https://equinor.slack.com/archives/CMM6FSW5V)
-- https://equinor.github.io/appsec/
-- Introducing the instructors 👨🏻‍🏫🧑🏼‍🏫👩🏽‍🏫
+- https://appsec.equinor.com
+- Introducing the instructor(s) 👨🏻‍🏫🧑🏼‍🏫👩🏽‍🏫
   
 </div>
 
-<div  style="grid-area: 1 / 2"><img src="./content/images/appsec-icon.svg" width="50%" height="auto" display="block" margin-left="auto" margin-right="auto">
+<div  style="grid-area: 1 / 2"><img src="./content/images/appsec-icon.svg" width="30%" height="auto" display="block" margin-left="auto" margin-right="auto">
 </div>
 
 </div>

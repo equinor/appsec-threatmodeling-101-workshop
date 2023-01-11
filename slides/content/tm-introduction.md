@@ -57,14 +57,22 @@ We acknowledge that; models always fall short of the complexities of reality - b
 
 ## It starts with security requirements
 
+<div><!-- .element: style="font-size:0.75em"-->
+
 - All systems must have documented security requirements (SR)!<!-- .element: class="fragment" data-fragment-index="1" -->
 - SR will guide and inform our threat modeling.<!-- .element: class="fragment" data-fragment-index="2" -->
 - In all/most organisations the governance</br> will be a good starting point for identifying SR<!-- .element: class="fragment" data-fragment-index="3" -->
 - Legal and governmental requirements will also provide SR<!-- .element: class="fragment" data-fragment-index="3" -->
 - Threat modeling will often trigger update of SR requirements<!-- .element: class="fragment" data-fragment-index="4" -->
 - External sources for "inspiration"<!-- .element: class="fragment" data-fragment-index="5" -->
-  - [OWASP SAAM](https://owaspsamm.org/)<!-- .element: class="fragment" data-fragment-index="5" -->
   - [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)<!-- .element: class="fragment" data-fragment-index="5" -->
+  - [OWASP MASVS - Mobile AppSec](https://mas.owasp.org/)<!-- .element: class="fragment" data-fragment-index="5" -->
+  - [OWASP Top-10](https://owasp.org/www-project-top-ten/)<!-- .element: class="fragment" data-fragment-index="5" -->
+  - [OWASP API Top-10](https://owasp.org/www-project-api-security/)<!-- .element: class="fragment" data-fragment-index="5" -->
+  - [OWASP SAAM](https://owaspsamm.org/model)<!-- .element: class="fragment" data-fragment-index="5" -->
+  - [OpenSSF Scorecard](https://securityscorecards.dev/)<!-- .element: class="fragment" data-fragment-index="5" -->
+
+</div>
 
 <hr>
 
@@ -81,7 +89,7 @@ We acknowledge that; models always fall short of the complexities of reality - b
 <hr>
 
 - Threat Modeling of a system usually happens in the early phases of the SDLC (DevOps)
-- Threat Modeling must include the SDLC (The DevOps Cycle)
+- Threat Modeling must include the system and the SDLC (The DevOps Cycle)
 - Threat Modeling must be a continuous effort
 
 </div>
@@ -93,7 +101,7 @@ We acknowledge that; models always fall short of the complexities of reality - b
 
 <hr>
 
-Threat modeling is much like brushing your teeth 🪥;</br> - daily short sessions -
+Threat modeling is much like brushing your teeth 🪥;</br> - 2 minutes 2 times a day -
 
 ---
 
@@ -109,11 +117,11 @@ Threat modeling is much like brushing your teeth 🪥;</br> - daily short sessio
 
 ## Misconceptions
 
-- "Think like an attacker" => </br>Who knows how an attacker think?</br>Focus on serious work, structure and consistency<!-- .element: class="fragment" data-fragment-index="1" -->
+- "Think like an attacker" => </br>Who knows how an attacker think?</br>TM is hard work requiring structure and consistency<!-- .element: class="fragment" data-fragment-index="1" -->
 - "You never done threat modeling" => </br>You do it all the time!<!-- .element: class="fragment" data-fragment-index="2" -->
 - "Threat modeling is easy" => </br>No, it requires continuos planned effort to build a muscle.<!-- .element: class="fragment" data-fragment-index="3" -->
 - "Threat modeling is for specialists" => </br>No, every team role plays it's part, everyone should participate<!-- .element: class="fragment" data-fragment-index="4" -->
-- "Threat modeling as ONE skill ..." => </br> Threat modeling is experience, techniques (DFD, STRIDE,.. ), repertoire, (tools, books, blogs) ... just like software development<!-- .element: class="fragment" data-fragment-index="5" -->
+- "Threat modeling as ONE skill ..." => </br> Threat modeling is experience, techniques (DFD, STRIDE,.. ), repertoire, (tools, books, blogs) ... just like software development, it's more than knowing a development language<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ---
 
